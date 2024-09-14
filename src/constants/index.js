@@ -129,22 +129,22 @@ export const projects = [
         iconUrl: threads,
         theme: 'btn-back-green',
         name: 'Finance Tracker',
-        description: 'Created a full-stack App using Appwrite as a backend where you can read blog of your own created or any other user created.',
+        description: 'Developed a Finance Tracker application using React to help users manage their personal finances effectively. The app allows users to track income, expenses, and view real-time balance updates. ',
         link: 'https://financetracker-bay.vercel.app/',
     },
     {
         iconUrl: threads,
         theme: 'btn-back-blue',
         name: 'University Site',
-        description: 'Design a WebApp where a user a design a tshirt using image of your own choice and if user cannot find image ,user can ask about it using inbuid AI.',
+        description: 'Created a fully functional university website to showcase essential academic information and facilitate user interaction. This project highlights proficiency in React, routing, component reusability, and responsive web design.',
         link: 'https://universitysite.vercel.app/',
     },
     {
         iconUrl: threads,
         theme: 'btn-back-pink',
-        name: 'Portfolio',
-        description: 'Built a complete 3d and animated portfolio .',
-        link: 'https://github.com/praveshnexus/portfolio',
+        name: 'Tic Tac Toe Game',
+        description: 'Developed an interactive Tic Tac Toe game with two-player functionality, alternating turns and real-time status updates showing the current player and game winner.',
+        link: 'https://tic-tac-toe-game-plum-nu.vercel.app/',
     },
     
 ];
