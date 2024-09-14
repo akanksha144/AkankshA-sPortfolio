@@ -14,7 +14,7 @@ const Footer = () => {
         </p>
 
         <div className='flex gap-3 justify-center items-center'>
-            <Link key={socialLinks[0].link} to="/contact" target='_blank'>
+            <Link key={socialLinks[0].link} to="/contact">
             <img
                 src={socialLinks[0].iconUrl}
                 alt={socialLinks[0].name}
